@@ -1,0 +1,5 @@
+vendor/
+sequenceBatchesTxs.txt
+verifyBatchesTxs.txt
+TxsGasUsedAndSizeInL2.txt
+datadir/
